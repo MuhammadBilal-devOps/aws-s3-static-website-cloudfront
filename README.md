@@ -21,17 +21,17 @@ I implemented a cloud project where I hosted a static website using AWS services
 
 ## Screenshots
 
-### S3 Bucket Configuration
-![S3](screenshots/s3-bucket.png)
+### S3 Bucket
+![S3 Bucket](S3 Bucket.jpeg)
 
 ### CloudFront Distribution
-![CloudFront](screenshots/cloudfront-distribution.png)
+![CloudFront](CloudFront Distribution.jpeg)
 
 ### Website Hosted via CloudFront
-![Website](screenshots/website-output.png)
+![Website](Website Hosted via CloudFront.jpeg)
 
-### Performance Test
-![Performance](screenshots/performance-test.png)
+### Website Performance Test
+![Performance](Website Performance Test.jpeg)
 
 ## What I Learned
 
