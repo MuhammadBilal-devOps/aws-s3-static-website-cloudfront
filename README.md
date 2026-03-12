@@ -21,16 +21,16 @@ I implemented a cloud project where I hosted a static website using AWS services
 
 ## Screenshots
 
-### S3 Bucket
+## S3 Bucket
 ![S3 Bucket](S3 Bucket.jpeg)
 
-### CloudFront Distribution
+## CloudFront Distribution
 ![CloudFront](CloudFront Distribution.jpeg)
 
-### Website Hosted via CloudFront
+## Website Hosted via CloudFront
 ![Website](Website Hosted via CloudFront.jpeg)
 
-### Website Performance Test
+## Website Performance Test
 ![Performance](Website Performance Test.jpeg)
 
 ## What I Learned
